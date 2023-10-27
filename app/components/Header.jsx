@@ -14,7 +14,7 @@ function Header() {
         <div className="header-opciones">
           <nav>
             <ul>
-              <Link href="/home">Home</Link>
+              <Link href="/">Home</Link>
               <Link href="/recipes">Recetas</Link>
               <Link href="/">Tips</Link>
               <Link href="/">Cómo</Link>
