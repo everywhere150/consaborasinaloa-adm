@@ -1,0 +1,17 @@
+
+.container-recipes-main{
+    padding: 3em 0;
+}
+
+.seccion-recetas-raw1{
+    width: 100%;
+    box-sizing: border-box;
+}
+.contenedor-recetas-recipes{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ 
+}

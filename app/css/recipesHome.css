@@ -1,0 +1,16 @@
+.contendedor-receta-recipeshome{
+ width: 30em;
+ height: 25em;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ padding: 2em;
+}
+.contendedor-receta-recipeshome .imagen-receta-recipeshome{
+    width: 100%;
+    height: 15em;
+}
+.contendedor-receta-recipeshome .imagen-receta-recipeshome img{
+ width: 100%;
+ height: 100%;
+}
